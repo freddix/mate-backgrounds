@@ -1,11 +1,11 @@
 Summary:	Set of backgrounds for MATE desktop
 Name:		mate-backgrounds
-Version:	1.6.0
-Release:	2
+Version:	1.6.1
+Release:	1
 License:	GPL v2
 Group:		Themes
 Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	b05ee6b9ef8faecb3fe95140526569cb
+# Source0-md5:	8764956a8a0fe4831906911806280b76
 URL:		http://mate-desktop.org/
 BuildRequires:	intltool
 BuildArch:	noarch
